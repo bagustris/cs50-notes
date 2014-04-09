@@ -1,0 +1,32 @@
+Ini adalah catatan belajar pemgroman dari CS50
+
+
+Week 0
+------
+
+
+
+
+
+
+Week 1
+------
+
+Week2
+-----
+tipe data --> done (char, int, double, float, long long)
+float --> datanya ya harus float, tidak bisa misalnya 1,2,...
+float itu apa ? contoh: 1.0 itu float, 3.0 itu float
+
+condition and loop:
+condition --> if (yes or no only, no loop)
+loop --> do, do-while, for
+
+parameter global dan lokal, global di awal (di luar kurung kurawal), parameter lokal di dalam (loop).
+
+
+Minggu ke-2, lanjutan
+---
+untuk membuat fungsi => NamaFungsi(tipedata variable)
+contoh CetakNama(string nama)
+Fungsi diatas bernama "CetakNama" dengan tipe data "string dan variabel masukan "nama"
